@@ -292,7 +292,12 @@
       }
     ],
     "conversionActions": [
-      "Draw water:Bucket of Water:Empty Bucket:You begin drawing water from the garden lake."
+      {
+        "Draw water:Bucket of Water:Empty Bucket:You begin drawing water from the garden lake."
+      },
+      {
+        "Draw water:Bottle of Water:Empty Bottle:You begin filling a bottle from the garden lake."
+      }
     ]
   }
 ]
