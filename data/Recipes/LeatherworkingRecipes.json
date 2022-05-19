@@ -1012,6 +1012,31 @@
     "maxOutputsPerAction": 1
   },
   {
+      "outputItemName": "Polar Bear Gloves(Clawed)",
+    "ingredients": [
+      {
+        "itemName": "Polar Bear Gloves",
+        "amount": 1
+      },
+      {
+        "itemName": "Polar Bear Claws",
+        "amount": 1
+      },
+      {
+        "itemName": "Leatherworking Toolkit",
+        "destroyOnUse": false
+      }
+    ],
+    "experienceGained": "Leatherworking:2500",
+    "requirements": [
+      {
+        "skill": "Leatherworking",
+        "skillLevel": 107
+      }
+    ],
+    "maxOutputsPerAction": 1
+  },
+  {
     "outputItemName": "Polar Bear Hat",
     "ingredients": [
       {
